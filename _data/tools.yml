@@ -2901,4 +2901,14 @@
   v3: true
   v3_1: true
 
+- name: DB2OpenAPI
+  category: converters
+  link: https://github.com/zuplo-samples/db2openapi
+  github: https://github.com/zuplo-samples/db2openapi
+  language: TypeScript
+  description: Generate an OpenAPI document directly from your SQL database. Useful to quickstart CRUD API development without tying you to a specific framework or tool.
+  v2: false
+  v3: true
+  v3_1: true
+
 # Please add new entries in alphabetical order, which slightly helps reduce conflicts
